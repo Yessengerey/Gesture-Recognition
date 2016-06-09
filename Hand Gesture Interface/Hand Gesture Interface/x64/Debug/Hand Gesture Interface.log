@@ -1,0 +1,9 @@
+﻿  Gesture.cpp
+f:\users\yessengerey\visual studio 2015\projects\hand gesture interface\hand gesture interface\gesture.cpp(38): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+f:\users\yessengerey\visual studio 2015\projects\hand gesture interface\hand gesture interface\gesture.cpp(47): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+f:\users\yessengerey\visual studio 2015\projects\hand gesture interface\hand gesture interface\gesture.cpp(91): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+f:\users\yessengerey\visual studio 2015\projects\hand gesture interface\hand gesture interface\gesture.cpp(108): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+f:\users\yessengerey\visual studio 2015\projects\hand gesture interface\hand gesture interface\gesture.cpp(110): warning C4305: 'initializing': truncation from 'double' to 'float'
+f:\users\yessengerey\visual studio 2015\projects\hand gesture interface\hand gesture interface\gesture.cpp(280): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+f:\users\yessengerey\visual studio 2015\projects\hand gesture interface\hand gesture interface\gesture.cpp(376): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Hand Gesture Interface.vcxproj -> F:\Users\Yessengerey\Visual Studio 2015\Projects\Hand Gesture Interface\x64\Debug\Hand Gesture Interface.exe
